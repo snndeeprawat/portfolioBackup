@@ -3,7 +3,7 @@
 This is my personal portfolio website showcasing my skills, projects, and contact information.
 
 ## 🚀 Live Website
-👉 https://sandeep-portfolio.netlify.app
+👉 https://snndeeprawat.netlify.app
 
 ---
 
